@@ -2,7 +2,7 @@
 # YieldSage 🚀
 
 Welcome to **YieldSage** – your all-in-one decentralized finance (DeFi) dashboard! 🎉 This project offers an innovative platform for crypto enthusiasts, featuring an AI-powered DeFi Assistant, a Top Liquidity Pools Explorer, and AI Price Predictions —all designed to elevate your crypto journey. 💰🤖
-Deployed  link: https://seeds-pink.vercel.app/
+Deployed  link:  https://sonic-wtmq.vercel.app/
 ## Table of Contents
 - [About the Project](#about-the-project)
 - [Features](#features)
