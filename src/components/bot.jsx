@@ -13,7 +13,7 @@ const ChatAssistant = ({ poolData, poolDayDatas }) => {
   // Initialize the model with your credentials and parameters.
   const model = new ChatGroq({
     apiKey: "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",
-    model: "mixtral-8x7b-32768",
+    model: "llama-3.3-70b-versatile",
     temperature: 0.5,
     maxTokens: 500,
   });
